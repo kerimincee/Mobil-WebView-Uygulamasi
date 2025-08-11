@@ -66,7 +66,7 @@
 
 1. **Projeyi Klonlayın**
    ```bash
-   git clone https://github.com/kullaniciadi/patron_ekran.git
+   git clone https://github.com/kerimincee/Mobil-WebView-Uygulamasi
    cd patron_ekran
    ```
 
