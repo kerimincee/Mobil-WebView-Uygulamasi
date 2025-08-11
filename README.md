@@ -176,9 +176,10 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Geliştirici**: [Adınız]
-- **Email**: [email@example.com]
-- **GitHub**: [@kullaniciadi](https://github.com/kullaniciadi)
+- **Geliştirici**: [Kerim Ince]
+- **Email**: [incekerim49@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/kerim-ince/]
+- **GitHub**: [https://github.com/kerimincee]
 
 ---
 
